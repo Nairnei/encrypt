@@ -221,9 +221,11 @@ packages:
   pointycastle:
     dependency: "direct main"
     description:
-      name: pointycastle
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "79ea7e28eb5276a2cf3342f11b275ed9c9ec52f2"
+      url: "https://github.com/Nairnei/pointycastle"
+    source: git
     version: "1.0.2"
   pool:
     dependency: transitive
